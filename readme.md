@@ -31,6 +31,3 @@ PortSniffer is a web-based port scanner built with Go. It allows you to quickly 
     ```
 
     You will see the PortSniffer interface. Enter a target IP or hostname (like `localhost` or `127.0.0.1`) and click **"Scan Ports"** to begin.
-for port := 1; port <= 65535; port++ {
-    // ...
-}
